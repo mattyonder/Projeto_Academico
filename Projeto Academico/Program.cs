@@ -2,6 +2,8 @@
 
     Aluno aluno = new Aluno();
 
+    Menu menu = new Menu();
+
     aluno.Nome = "Mateus";
     aluno.Sexo = 'M';
     aluno.DataNascimento = "19/06/2005";
@@ -11,6 +13,10 @@
     aluno.Nota3 = 6.9;
 
     aluno.Apresentacao();
+
+    Console.WriteLine(menu.GetMenu());
+
+    
 
 
 

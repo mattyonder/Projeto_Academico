@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mateus-zorinos/Documentos/Estudos/Projeto Academico Em C#/Projeto Academico/Projeto Academico.csproj",
+      "projectUniqueName": "/home/mateus-zorinos/Documentos/Estudos/Projeto_Academico/Projeto Academico/Projeto Academico.csproj",
       "projectName": "Projeto Academico",
-      "projectPath": "/home/mateus-zorinos/Documentos/Estudos/Projeto Academico Em C#/Projeto Academico/Projeto Academico.csproj",
+      "projectPath": "/home/mateus-zorinos/Documentos/Estudos/Projeto_Academico/Projeto Academico/Projeto Academico.csproj",
       "packagesPath": "/home/mateus-zorinos/.nuget/packages/",
-      "outputPath": "/home/mateus-zorinos/Documentos/Estudos/Projeto Academico Em C#/Projeto Academico/obj/",
+      "outputPath": "/home/mateus-zorinos/Documentos/Estudos/Projeto_Academico/Projeto Academico/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mateus-zorinos/.nuget/NuGet/NuGet.Config"
