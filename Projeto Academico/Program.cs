@@ -17,7 +17,7 @@
         string? dataNascimentoAluno;
         double? nota1Aluno, nota2Aluno, nota3Aluno;
 
-        Console.WriteLine("n-----------------------------");
+        Console.WriteLine("\n-----------------------------");
         
         Console.WriteLine("CADASTRO");
 
@@ -44,6 +44,113 @@
         nota3Aluno = Convert.ToDouble(Console.ReadLine());
 
         Aluno aluno = new Aluno();
+
+        break;
+    
+        case 2:
+
+        break;
+
+        case 3:
+
+        string? nomeProfessor;
+        char sexoProfessor;
+        string? localNascimentoProfessor;
+        string? dataNascimentoProfessor;
+        string? formacalProfessor;
+
+        Console.WriteLine("\n-----------------------------");
+        
+        Console.WriteLine("CADASTRO");
+
+        Console.WriteLine("Digite o nome: ");
+        nomeProfessor = Console.ReadLine();
+
+        Console.WriteLine("Digite o sexo: ");
+        sexoProfessor = Convert.ToChar(Console.ReadLine());
+
+        Console.WriteLine("Digite o local de nascimento: ");
+        localNascimentoProfessor = Console.ReadLine();
+
+        Console.WriteLine("Digite a data de nascimento: ");
+        dataNascimentoProfessor = Console.ReadLine();
+
+        Console.WriteLine("Digite a formação: ");
+        formacalProfessor = Console.ReadLine();
+
+        break;
+
+        case 4:
+
+        break;
+
+        case 5:
+
+        string? nomeCoordenador;
+        char sexoCoordenador;
+        string? localNascimentoCoordenador;
+        string? dataNascimentoCoordenador;
+        string? cursoCoordenador;
+
+        Console.WriteLine("\n-----------------------------");
+        
+        Console.WriteLine("CADASTRO");
+
+        Console.WriteLine("Digite o nome: ");
+        nomeCoordenador = Console.ReadLine();
+
+        Console.WriteLine("Digite o sexo: ");
+        sexoCoordenador = Convert.ToChar(Console.ReadLine());
+
+        Console.WriteLine("Digite o local de nascimento: ");
+        localNascimentoCoordenador = Console.ReadLine();
+
+        Console.WriteLine("Digite a data de nascimento: ");
+        dataNascimentoCoordenador = Console.ReadLine();
+
+        Console.WriteLine("Digite o curso: ");
+        cursoCoordenador = Console.ReadLine();
+
+        break;
+
+        case 6:
+
+        break;
+
+        case 7:
+
+        string? nomeEstagiario;
+        char sexoEstagiario;
+        string? localNascimentoEstagiario;
+        string? dataNascimentoEstagiario;
+        string? instituicaoEstagiario;
+        string? periodoAtualEstagiario;
+        string? cursoEstagiario;
+
+        Console.WriteLine("\n-----------------------------");
+        
+        Console.WriteLine("CADASTRO");
+
+        Console.WriteLine("Digite o nome: ");
+        nomeEstagiario = Console.ReadLine();
+
+        Console.WriteLine("Digite o sexo: ");
+        sexoEstagiario = Convert.ToChar(Console.ReadLine());
+
+        Console.WriteLine("Digite o local de nascimento: ");
+        localNascimentoEstagiario = Console.ReadLine();
+
+        Console.WriteLine("Digite a data de nascimento: ");
+        dataNascimentoEstagiario = Console.ReadLine();
+
+        Console.WriteLine("Digite a instituição: ");
+        instituicaoEstagiario = Console.ReadLine();
+
+        Console.WriteLine("Digite o periodo atual: ");
+        periodoAtualEstagiario = Console.ReadLine();
+
+        Console.WriteLine("Digite o curso: ");
+        cursoEstagiario = Console.ReadLine();
 
         break;
     }

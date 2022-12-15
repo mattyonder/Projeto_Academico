@@ -15,7 +15,7 @@ namespace Projeto_Academico.Models
             + "\n Digite uma opção"
             + "\n 1.Cadastrar Aluno"
             + "\n 2.Listar Aluno"
-            + "\n 3.Cadastra Professor"
+            + "\n 3.Cadastrar Professor"
             + "\n 4.Listar Professor"
             + "\n 5.Cadastrar Coordenador"
             + "\n 6.Listar Coordenador"
