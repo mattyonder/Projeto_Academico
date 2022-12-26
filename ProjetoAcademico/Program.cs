@@ -2,10 +2,17 @@
 
     Menu menu = new Menu();
 
-//Colocar tudo dentro de um While
+    int opcao = 0;
 
+    List<Aluno> alunos = new List<Aluno>();
+
+//Colocar tudo dentro de um While
+do
+{
+
+    Console.WriteLine("\n-----------------------------");
     Console.WriteLine(menu.GetMenu());
-    int opcao = Convert.ToInt32(Console.ReadLine());
+    opcao = Convert.ToInt32(Console.ReadLine());
 
     switch (opcao)
     {
@@ -39,11 +46,12 @@
         Console.WriteLine("Digite a 2° nota: ");
         nota2Aluno = Convert.ToDouble(Console.ReadLine());
 
-
         Console.WriteLine("Digite a 3° nota: ");
         nota3Aluno = Convert.ToDouble(Console.ReadLine());
 
         Aluno aluno = new Aluno();
+
+        alunos.Add(aluno);
 
         break;
     
@@ -154,6 +162,9 @@
 
         break;
     }
+
+} while (opcao != 0);
+    
 
     
 
