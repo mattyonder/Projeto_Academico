@@ -1,0 +1,12 @@
+/home/mateus-zorinos/Documentos/Estudos/Projeto_Academico/ProjetoAcademico/Academico.Common/bin/Debug/net7.0/Academico.Common.deps.json
+/home/mateus-zorinos/Documentos/Estudos/Projeto_Academico/ProjetoAcademico/Academico.Common/bin/Debug/net7.0/Academico.Common.dll
+/home/mateus-zorinos/Documentos/Estudos/Projeto_Academico/ProjetoAcademico/Academico.Common/bin/Debug/net7.0/Academico.Common.pdb
+/home/mateus-zorinos/Documentos/Estudos/Projeto_Academico/ProjetoAcademico/Academico.Common/obj/Debug/net7.0/Academico.Common.csproj.AssemblyReference.cache
+/home/mateus-zorinos/Documentos/Estudos/Projeto_Academico/ProjetoAcademico/Academico.Common/obj/Debug/net7.0/Academico.Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateus-zorinos/Documentos/Estudos/Projeto_Academico/ProjetoAcademico/Academico.Common/obj/Debug/net7.0/Academico.Common.AssemblyInfoInputs.cache
+/home/mateus-zorinos/Documentos/Estudos/Projeto_Academico/ProjetoAcademico/Academico.Common/obj/Debug/net7.0/Academico.Common.AssemblyInfo.cs
+/home/mateus-zorinos/Documentos/Estudos/Projeto_Academico/ProjetoAcademico/Academico.Common/obj/Debug/net7.0/Academico.Common.csproj.CoreCompileInputs.cache
+/home/mateus-zorinos/Documentos/Estudos/Projeto_Academico/ProjetoAcademico/Academico.Common/obj/Debug/net7.0/Academico.Common.dll
+/home/mateus-zorinos/Documentos/Estudos/Projeto_Academico/ProjetoAcademico/Academico.Common/obj/Debug/net7.0/refint/Academico.Common.dll
+/home/mateus-zorinos/Documentos/Estudos/Projeto_Academico/ProjetoAcademico/Academico.Common/obj/Debug/net7.0/Academico.Common.pdb
+/home/mateus-zorinos/Documentos/Estudos/Projeto_Academico/ProjetoAcademico/Academico.Common/obj/Debug/net7.0/ref/Academico.Common.dll

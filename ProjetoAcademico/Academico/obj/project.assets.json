@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Academico.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Academico.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Academico.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Academico.Common/1.0.0": {
+      "type": "project",
+      "path": "../Academico.Common/Academico.Common.csproj",
+      "msbuildProject": "../Academico.Common/Academico.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Academico.Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/mateus-zorinos/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/mateus-zorinos/Documentos/Estudos/Projeto_Academico/ProjetoAcademico/Academico/Academico.csproj",
+      "projectName": "Academico",
+      "projectPath": "/home/mateus-zorinos/Documentos/Estudos/Projeto_Academico/ProjetoAcademico/Academico/Academico.csproj",
+      "packagesPath": "/home/mateus-zorinos/.nuget/packages/",
+      "outputPath": "/home/mateus-zorinos/Documentos/Estudos/Projeto_Academico/ProjetoAcademico/Academico/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/mateus-zorinos/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/home/mateus-zorinos/Documentos/Estudos/Projeto_Academico/ProjetoAcademico/Academico.Common/Academico.Common.csproj": {
+              "projectPath": "/home/mateus-zorinos/Documentos/Estudos/Projeto_Academico/ProjetoAcademico/Academico.Common/Academico.Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/home/mateus-zorinos/.dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

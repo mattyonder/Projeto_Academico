@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academico", "Academico\Academico.csproj", "{115E7B6E-E613-43AC-A8B7-DD0074F8FD85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academico.Common", "Academico.Common\Academico.Common.csproj", "{FC07C83D-E919-4C40-BF35-D2D64081A0FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{115E7B6E-E613-43AC-A8B7-DD0074F8FD85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{115E7B6E-E613-43AC-A8B7-DD0074F8FD85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{115E7B6E-E613-43AC-A8B7-DD0074F8FD85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{115E7B6E-E613-43AC-A8B7-DD0074F8FD85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC07C83D-E919-4C40-BF35-D2D64081A0FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC07C83D-E919-4C40-BF35-D2D64081A0FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC07C83D-E919-4C40-BF35-D2D64081A0FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC07C83D-E919-4C40-BF35-D2D64081A0FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
